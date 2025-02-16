@@ -6,8 +6,11 @@ Dataset Description
 The dataset contains information about clients' demographics, financial history, and contact information from the bank's marketing campaigns. It can be accessed using the following Google Drive link.
 
 Columns:
+
 Age: Numeric
+
 Job: Type of job (e.g., admin, management, blue-collar, etc.)
+
 Marital: Marital status (e.g., married, divorced, single)
 Education: Level of education (e.g., primary, secondary, tertiary)
 Default: Whether the client has credit in default (yes/no)
